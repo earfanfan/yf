@@ -1,16 +1,16 @@
 # Site settings
-baseurl = "your_site_url_address"
+baseurl = "https://yuanfan.vercel.app/"
 languageCode = "en"
-title = "site title"
+title = "earfanfan | 袁凡"
 theme = "hugo-theme-cactus-plus"
 googleAnalytics = "your_google_analytics_id"
 # Set the value to true if your site include CJK (Chinese, Japanese, and Korean languages) characters
-hasCJKLanguage = false
+hasCJKLanguage = true
 
 [params]
-	author = "site_author"
-	description = "Site Description"
-	bio = "author biography"
+	author = "袁凡"
+	description = "YuanFan's Blog"
+	bio = "一天是永恒的缩影，逆水行舟，不进则退"
 
 	twitter = "your_twitter_id"
 	facebook = "your_facebook_id"
@@ -18,7 +18,7 @@ hasCJKLanguage = false
 	enableRSS = true
 	enableToc = true
 
-	enableDisqus = true
+	enableDisqus = false
 	disqusShortname = "your_disqus_short_name"
 
 
@@ -28,9 +28,9 @@ hasCJKLanguage = false
 
 
 	enableGoogleAnalytics = true
-	enableBaiduAnalytics = false
+	enableBaiduAnalytics = true
 	# Set the value to your baidu analysis code if you want to use baidu analytics
-	baiduAnalytics = 'your_baidu_analysis_code'
+	baiduAnalytics = '8f70ac927bdcaf45a22df60dd240bfcd'
 
 	enableTwitterCard = true
 	# The url for twitter card image, default is avatar.png in static/images directory
@@ -44,10 +44,11 @@ hasCJKLanguage = false
 	# translate or customize each string of the theme.
 
 	# Navigation links
-	home = ""
-	about = ""
-	archive = ""
-	subscribe = ""
+	home = "主页/Home"
+	about = "关于/About"
+	archive = "博客/Archive"
+	subscribe = "订阅/Subscribe"
+	Tags = "标签/Tags"
 
 	olderPosts = ""
 	newerPosts = ""
@@ -74,6 +75,13 @@ hasCJKLanguage = false
 
 # Add additional social link entries underneath
 [social]
-	facebook-square = "https://www.facebook.com/nodejh"
-	twitter-square = "https://www.twitter.com/nodejh"
-	github-square = "https://www.github.com/nodejh"
+	facebook-square = "https://www.facebook.com"
+	twitter-square = "https://www.twitter.com"
+	github-square = "https://www.github.com/earfanfan"
+
+## 配置 utteranc评论,教程参考 https://utteranc.es/
+[params.utteranc]
+  enable = true
+  repo = "earfanfan/BlogComments" 
+  issueTerm = "pathname"
+  theme = "github-light"
