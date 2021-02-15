@@ -3,7 +3,7 @@ author: 袁凡
 title: About Me
 ---
 
-## 关于
+## <font face="黑体" size=6>**关于**
 
 <font face="宋体" size=3> 几近而立之年，终于从浑浑噩噩、随波逐流的状态中渐渐认识自己、认清自己、认可自己。一般来说，“正常的人生轨迹”是读书、工作、恋爱、结婚、养育后代，“成功的人生”是买房、买车、迎娶白富美/嫁个高富帅、走上人生巅峰。上层继续宣扬着单一、稳定的价值观，多元化的人生观、生活观却慢慢开始从小众走向大众。
 
@@ -11,7 +11,7 @@ title: About Me
 
 
 
-## 个人兴趣
+## <font face="黑体" size=6>**个人兴趣**
 
 + <font face="宋体" size=3> useR!
 
@@ -23,7 +23,7 @@ title: About Me
 
 
 
-## 我喜欢的博主们 
+## <font face="黑体" size=6>**我喜欢的博主们**
 
 + <font face="宋体" size=3>[张列弛](https://www.liechi.org/)：思辨力，文学，鲁迅，温和地批判
 
@@ -35,7 +35,7 @@ title: About Me
 
 
 
-## 联系方式
+## <font face="黑体" size=6>**联系方式**
 
 + <font face="宋体" size=3>Fanyuan@protonmail.com
 
