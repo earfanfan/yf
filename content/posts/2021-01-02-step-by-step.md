@@ -4,9 +4,9 @@ author: yuanfan
 date: '2021-01-03'
 slug: step-by-step
 categories:
-  - Example
+  - THINKING
 tags:
-  - Markdown
+  - THINKING
 ---
 
 ## 起·源
