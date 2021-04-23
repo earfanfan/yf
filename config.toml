@@ -44,11 +44,11 @@ hasCJKLanguage = true
 	# translate or customize each string of the theme.
 
 	# Navigation links
-	home = "主页/Home"
-	about = "关于/About"
-	archive = "博客/Archive"
-	subscribe = "订阅/Subscribe"
-	Tags = "标签/Tags"
+	home = "主页"
+	about = "关于"
+	archive = "博客"
+	subscribe = "订阅"
+	Tags = "标签"
 
 	olderPosts = ""
 	newerPosts = ""
