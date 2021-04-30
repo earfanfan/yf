@@ -1,7 +1,7 @@
 ---
 title: YY星系传说之灰灰旅行篇
 author: yuanfan
-date: '2021-04-26'
+date: '2021-04-30'
 slug: huihui-traveling
 categories:
   - NOVEL
