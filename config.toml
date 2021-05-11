@@ -50,8 +50,8 @@ hasCJKLanguage = true
 	subscribe = "订阅"
 	Tags = "标签"
 
-	olderPosts = ""
-	newerPosts = ""
+	olderPosts = "前面的狗"
+	newerPosts = "后面的猫"
 	copyright = ""
 
 	# show latest posts in single page
