@@ -55,8 +55,8 @@ hasCJKLanguage = true
 	copyright = ""
 
 	# show latest posts in single page
-	showLatestPosts = false
-	readMore = ""
+	showLatestPosts = true
+	readMore = "上一篇"
 
 	# Share
 	enableShare = true
@@ -64,8 +64,8 @@ hasCJKLanguage = true
 	share = ""
 
 	# 404 page
-	title404 = ""
-	subtitle404 = ""
+	title404 = "阿木狗主云游天外了"
+	subtitle404 = "天灵灵，地灵灵，时灵时不灵"
 
 	# Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
 	iconFont = "font-awesome"
