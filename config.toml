@@ -55,7 +55,7 @@ hasCJKLanguage = true
 	copyright = ""
 
 	# show latest posts in single page
-	showLatestPosts = true
+	showLatestPosts = false
 	readMore = "上一篇"
 
 	# Share
