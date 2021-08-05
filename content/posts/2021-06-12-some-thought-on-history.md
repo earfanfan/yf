@@ -6,7 +6,7 @@ slug: some-thought-on-history
 categories:
   - Thingking
 tags:
-  - Reading Notes
+  - 读书
 draft: no
 ---
 
