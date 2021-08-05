@@ -6,7 +6,7 @@ slug: huihui-traveling
 categories:
   - NOVEL
 tags:
-  - ShortStory
+  - 小说
 draft: no
 ---
 
