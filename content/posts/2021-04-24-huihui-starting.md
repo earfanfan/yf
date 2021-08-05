@@ -6,7 +6,7 @@ slug: huihui-starting
 categories:
   - NOVEL
 tags:
-  - ShortStory
+  - 小说
 draft: no
 ---
 
