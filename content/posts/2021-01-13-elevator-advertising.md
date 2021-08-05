@@ -6,7 +6,7 @@ slug: elevator-advertising
 categories:
   - living
 tags:
-  - Roast
+  - 生活
 ---
 
 <font face="微软雅黑">我住的小区电梯里有放置视频广告，我对此真是深恶痛绝。广告词循环大声量播放，加上词句简单听几次脑子就不自觉记住了，更令人讨厌。
