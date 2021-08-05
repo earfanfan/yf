@@ -6,7 +6,7 @@ slug: if-meet-old-yourself
 categories:
   - NOVEL
 tags:
-  - ShortStory
+  - 小说
 ---
 
 <font face="微软雅黑">读大学的时候写的短篇小说，刚从古早秋秋空间搬过来的。现在的我是灰常搞不懂的，当年我还不到二十岁竟然会写这样的故事。
