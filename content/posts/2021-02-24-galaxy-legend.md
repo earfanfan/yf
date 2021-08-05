@@ -6,7 +6,7 @@ slug: galaxy-legend
 categories:
   - NOVEL
 tags:
-  - ShortStory
+  - 小说
 draft: no
 ---
 
