@@ -49,7 +49,6 @@ hasCJKLanguage = true
 	archive = "博客"
 	subscribe = "订阅"
 	Tags = "标签"
-	Rme = "R&ME"
 
 	olderPosts = "前面的狗"
 	newerPosts = "后面的猫"
