@@ -6,7 +6,7 @@ slug: youyou-s-story
 categories:
   - NOVEL
 tags:
-  - ShortStory
+  - 小说
 draft: no
 ---
 
