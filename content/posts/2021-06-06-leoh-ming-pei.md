@@ -6,7 +6,7 @@ slug: Ieoh-ming-pei
 categories:
   - Thingking
 tags:
-  - Reading Notes
+  - 读书
 draft: no
 ---
 
