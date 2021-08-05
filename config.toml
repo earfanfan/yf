@@ -48,7 +48,7 @@ hasCJKLanguage = true
 	about = "关于"
 	archive = "博客"
 	subscribe = "订阅"
-	Tags = "标签"
+	Tags = "归档"
 
 	olderPosts = "前面的狗"
 	newerPosts = "后面的猫"
