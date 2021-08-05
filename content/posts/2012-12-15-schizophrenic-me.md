@@ -6,7 +6,7 @@ slug: schizophrenic-me
 categories:
   - Thingking
 tags:
-  - thinking
+  - 思考
 draft: no
 ---
 
