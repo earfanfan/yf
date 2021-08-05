@@ -6,7 +6,7 @@ slug: eat-promise-will-be-fat
 categories:
   - NOVEL
 tags:
-  - ShortStory
+  - 小说
 draft: no
 ---
 
