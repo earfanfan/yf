@@ -6,7 +6,7 @@ slug: reading-zhuangzi-s-diary
 categories:
   - Thingking
 tags:
-  - Reading Notes
+  - 读书
 draft: no
 ---
 
