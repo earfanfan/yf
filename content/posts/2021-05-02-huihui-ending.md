@@ -6,7 +6,7 @@ slug: huihui-ending
 categories:
   - NOVEL
 tags:
-  - ShortStory
+  - 小说
 draft: no
 ---
 <font face="微软雅黑">过去是由现在决定的，而现在是由未来决定的。
