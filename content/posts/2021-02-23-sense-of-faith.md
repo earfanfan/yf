@@ -6,7 +6,7 @@ slug: sense-of-faith
 categories:
   - Thingking
 tags:
-  - thinking
+  - 思考
 draft: no
 ---
 
