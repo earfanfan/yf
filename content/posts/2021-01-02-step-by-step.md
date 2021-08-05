@@ -6,7 +6,7 @@ slug: step-by-step
 categories:
   - THINKING
 tags:
-  - THINKING
+  - 生活
 ---
 
 ## 起·源
