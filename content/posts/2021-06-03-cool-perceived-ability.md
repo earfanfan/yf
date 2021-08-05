@@ -6,7 +6,7 @@ slug: cool-perceived-ability
 categories:
   - Living
 tags:
-  - thinking
+  - 生活
 draft: no
 ---
 
