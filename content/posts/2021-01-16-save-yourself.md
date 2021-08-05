@@ -6,7 +6,7 @@ slug: save-yourself
 categories:
   - Thinking
 tags:
-  - Reading Notes
+  - 读书
 ---
 
 <font face="微软雅黑">[一篇博客](https://yihui.org/cn/2019/03/help-your-nerves/)，看到“学校和家庭都未曾重视应训练孩子去做克制和自律的练习，不然尤其忍受不了不快的人会容易精神焦虑”，颇有些感触呵。
