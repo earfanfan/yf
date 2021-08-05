@@ -6,7 +6,7 @@ slug: a-little-baby
 categories:
   - Living
 tags:
-  - thinking
+  - 生活
 draft: no
 ---
 
