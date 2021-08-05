@@ -6,7 +6,7 @@ slug: money-and-small-bench
 categories:
   - Living
 tags:
-  - Roast
+  - 生活
 draft: no
 ---
 
