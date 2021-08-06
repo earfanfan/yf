@@ -30,6 +30,6 @@ title: About Me
   
 + [于淼](https://yufree.cn/)：高产，INTJ
 
-**联系方式**
+**联系方式** ♪(^∇^*)
   
 + Fanyuan@protonmail.com
