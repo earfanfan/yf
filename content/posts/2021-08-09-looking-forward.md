@@ -50,7 +50,7 @@ draft: no
 
 ------
 
-人们熬夜的主要原因是放不下手机，而多数人放不下手机是因为在刷短视频，而刷短视频又是为了什么呢？这是我去年在一篇公众号文章看到的，个人觉得有几分道理：
+去年看过一篇丧气满满又十分真实的公众号文章《[人生需要摸鱼时刻](https://mp.weixin.qq.com/s?__biz=MzI2NDk5NzA0Mw==&mid=2247665932&idx=1&sn=2c363a51fea10976c0f879f21eada178&chksm=eaa818d0dddf91c680603800ad8033387ae6bdc997cd0b094b36bb3c98b007d5997de76adbd6&mpshare=1&scene=1&srcid=0810k2zWJjCH5q0DXcnJ53Me&sharer_sharetime=1628555552308&sharer_shareid=ad01e72c3ab3b3b9897108f49509a077&version=3.1.11.3009&platform=win#rd)》，个人觉得有几分道理：
 
 >有学者分析说是因为人们的爱好“下沉”了，不再追求更深层次的乐趣。
 >
