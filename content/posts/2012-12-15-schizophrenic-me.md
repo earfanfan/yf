@@ -34,5 +34,4 @@ draft: no
 
 *Mr.Raindrop(银魂ED02)--amplified*
   
->二二&emsp;二二 <br>
->二二二二二
+
