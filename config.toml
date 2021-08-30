@@ -90,3 +90,7 @@ paginate = 9
   repo = "earfanfan/BlogComments" 
   issueTerm = "pathname"
   theme = "github-light"
+  
+[markup]
+    [markup.goldmark.renderer]
+      unsafe = true  
