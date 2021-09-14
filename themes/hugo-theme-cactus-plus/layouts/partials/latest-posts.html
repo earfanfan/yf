@@ -3,7 +3,7 @@
 
     {{ $kind := where .Site.RegularPages "Section" "!=" "" }}
     {{ $othr := where $kind "URL" "!=" .URL }}
-    {{ range first 10 $othr }}
+    {{ range first 2 $othr }}
         <li>
             <a href="{{ .URL }}">{{ .LinkTitle }}<aside class="dates">{{ .Date.Format "Jan 2 2006" }}</aside></a>
         </li>
