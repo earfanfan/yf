@@ -932,3 +932,9 @@ a.symbol:hover {
 .page-tags ul li a:hover {
     color: #5694f1;
 }
+
+.post-nav {
+  margin: .5em 0;
+  display: flex;
+  justify-content: space-between;
+}
