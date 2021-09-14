@@ -1,5 +1,22 @@
-/* Reset */
+/* 从https://github.com/yihui/hugo-xmag/edit/master/static/css/style.css 直接粘过来的 */
+body {
+  margin: 0;
+  line-height: 1.5em;
+  background: #fafafa;
+}
+.header div, .container, .copyright, .menu {
+  max-width: 1100px;
+  margin: auto;
+  padding: 0 15px;
+}
+.page .header div, .page .container, .page .copyright, .page .menu { max-width: 900px; }
+.container { hyphens: auto; }
+@media (max-width: 930px) {
+  .page .container { padding: 0; }
+}
+main { margin-bottom: 15px; }
 
+/* Reset */
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
     border: 0;
     font-size: 100%;
