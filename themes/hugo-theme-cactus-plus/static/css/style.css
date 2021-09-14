@@ -220,13 +220,13 @@ nav.main-nav a.cta {
 }
 
 #wrapper {
-    max-width: 800px;
+    max-width: 720px;
     margin: 0 auto;
     padding: 60px 20px 100px 20px;
 }
 
 #wrapper.home {
-    max-width: 800px;
+    max-width: 720px;
     margin: 0 auto;
     padding: 0px 40px 20px 40px;
 }
@@ -548,7 +548,7 @@ Post List
 #header {
 }
 #wrapper.post {
-    max-width: 800px;
+    max-width: 720px;
 }
 .post {
     margin: auto;
