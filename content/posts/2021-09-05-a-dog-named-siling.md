@@ -3,7 +3,6 @@ title: 犬伴
 author: yuanfan
 date: '2021-09-05'
 slug: a-dog-named-siling
-geometry:"left=3cm,right=3cm,top=2cm,bottom=2cm"
 categories:
   - Living
 tags:
