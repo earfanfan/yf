@@ -10,7 +10,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "\\.knit\\.md$", "\\.utf8\\.md$", "_c
 preserveTaxonomyNames = true
 footnotereturnlinkcontents = "↩"
 enableEmoji = true
-paginate = 9
+paginate = 10
 
 [params]
 	author = "袁凡"
