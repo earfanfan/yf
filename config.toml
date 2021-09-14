@@ -32,7 +32,7 @@ paginate = 9
 	useDescriptionReplaceSummary = false
 
 
-	enableGoogleAnalytics = true
+	enableGoogleAnalytics = false
 	enableBaiduAnalytics = true
 	# Set the value to your baidu analysis code if you want to use baidu analytics
 	baiduAnalytics = '8f70ac927bdcaf45a22df60dd240bfcd'
@@ -64,7 +64,7 @@ paginate = 9
 	readMore = "最近两篇"
 
 	# Share
-	enableShare = true
+	enableShare = false
 	tweet = ""
 	share = ""
 
