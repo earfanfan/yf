@@ -21,7 +21,7 @@ paginate = 9
 	facebook = "your_facebook_id"
 
 	enableRSS = true
-	enableToc = true
+	enableToc = false
 
 	enableDisqus = false
 	disqusShortname = "your_disqus_short_name"
