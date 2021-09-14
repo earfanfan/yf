@@ -61,7 +61,7 @@ paginate = 9
 
 	# show latest posts in single page
 	showLatestPosts = true
-	readMore = "上一篇"
+	readMore = "下一篇&上一篇"
 
 	# Share
 	enableShare = true
