@@ -60,7 +60,7 @@ paginate = 9
 	copyright = ""
 
 	# show latest posts in single page
-	showLatestPosts = false
+	showLatestPosts = true
 	readMore = "上一篇"
 
 	# Share
