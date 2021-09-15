@@ -948,7 +948,7 @@ pre {
 code {
   font-family: 'PT Mono', monospace;
   font-size: 100%;
-  color: #959595;
+  background: #959595;
 }
 pre code {
   background: none;
