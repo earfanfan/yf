@@ -945,9 +945,9 @@ pre {
   box-shadow: 5px 5px 5px #eee;
   overflow-x: auto;
 }
-code { 
-    background: #c7c7c7; 
-    font-weight: bolder;
+code {
+  font-family: 'PT Mono', monospace;
+  font-size: 85%;
 }
 pre code {
   background: none;
