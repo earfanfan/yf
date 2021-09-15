@@ -938,3 +938,16 @@ a.symbol:hover {
   display: flex;
   justify-content: space-between;
 }
+
+/* code */
+pre {
+  border: 1px solid #ddd;
+  box-shadow: 5px 5px 5px #eee;
+  overflow-x: auto;
+}
+code { background: #f9f9f9; }
+pre code {
+  background: none;
+  padding: .5em;
+  display: block;
+}
