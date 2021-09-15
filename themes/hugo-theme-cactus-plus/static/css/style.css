@@ -945,7 +945,10 @@ pre {
   box-shadow: 5px 5px 5px #eee;
   overflow-x: auto;
 }
-code { background: #c7c7c7; }
+code { 
+    background: #c7c7c7; 
+    font-weight: bolder;
+}
 pre code {
   background: none;
   padding: .5em;
