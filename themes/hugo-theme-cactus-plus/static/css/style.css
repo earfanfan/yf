@@ -557,7 +557,7 @@ Post List
 #post-meta {
     font-size: 13px;
     font-weight: bold;
-    line-height: 1.4;
+    line-height: 1.6;
     border-top: 1px solid #eee;
     padding-top: 40px;
     margin-bottom: 40px;
@@ -568,13 +568,13 @@ Post List
 }
 
 #post-meta div span {
-    color: #aaa;
+    color: #000000;
     font-weight: 500;
     display: block;
 }
 
 #post-meta div span.dark {
-    color: #1E2025;
+    color: #000000;
 }
 
 #post-meta div {
