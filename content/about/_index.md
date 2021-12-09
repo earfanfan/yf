@@ -22,7 +22,13 @@ title: About Me
   
 + [陈丽云](http://www.loyhome.com/)：落园，观察与思考，自省
   
-+ [于淼](https://yufree.cn/)：高产，INTJ
++ [于淼](https://yufree.cn/)：高产，INTJ，思考力
+  
++ [叶寻](https://cyrusyip.org/)：爱学习，捣鼓工具，善良，有目标
+  
++ [CC](https://rexwang.cc/about/)：达娜主人，Glacier Data
+  
++ [BYVoid](https://byvoid.com/zht/about/)：旅行者，游记，语言文字  
   
 **阿木狗主的自白：**  ❥(^_-)
   
