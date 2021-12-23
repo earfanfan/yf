@@ -57,7 +57,7 @@ download.packages(packages, destdir = "D:/R/R-install", type = "source")
 
 ## 将本地下载的 R 包文件放到服务器上
 
-我对 LINUX 不熟，对 Shell 也不熟，所以我转移 R 包是这么干的：进入 Xshell，写`cd /home/package/R-4.0.3/source/`命令进入'source'文件夹（存放待安装 R 包的地方），打开 Xftp 把需要装的R包手动拖过去。
+我对 Linux 不熟，对 Shell 也不熟，所以我转移 R 包是这么干的：进入 Xshell，写`cd /home/package/R-4.0.3/source/`命令进入'source'文件夹（存放待安装 R 包的地方），打开 Xftp 把需要装的R包手动拖过去。
 
 ## 安装R包
 
@@ -94,7 +94,7 @@ install.packages(myPackages,
 
 ## 在 RStudio Server 上 knit
 
-建好 R Markdown 文档了，直接单击 knit 按钮会报错，大概是'no png support in this R'、'failed to load cairo DLL Execution halted'之类的。要是这里傻乎乎地以为 cairo 是个 R 包就会大错特错，一番折腾后会发现这里缺少的 cairo 是 linux 系统包，安装命令应该是`sudo yum install cairo-devel`。
+建好 R Markdown 文档了，直接单击 knit 按钮会报错，大概是'no png support in this R'、'failed to load cairo DLL Execution halted'之类的。要是这里傻乎乎地以为 cairo 是个 R 包就会大错特错，一番折腾后会发现这里缺少的 cairo 是 Linux 系统包，安装命令应该是`sudo yum install cairo-devel`。
 
 装好后，接下来在 R Markdown 文档的 setup 代码段里加上`dev="CairoPNG"`参数就能正常 knit 了。
 
@@ -104,7 +104,7 @@ knitr::opts_chunk$set(echo = TRUE,dev="CairoPNG")
 ```
 ````
 
-## 在 linux 的 R 环境中 knit
+## 在 Linux 的 R 环境中 knit
 
 进入服务器上面安装好的 R 的 bin 目录下，写`cd /home/package/R-4.0.3/bin/`，再写`./R`就能进入 R 环境，然后用`rmarkdown::render`函数来实现。
 
