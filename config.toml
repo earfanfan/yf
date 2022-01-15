@@ -94,3 +94,6 @@ paginate = 10
 [markup]
     [markup.goldmark.renderer]
       unsafe = true  
+
+[context.production]
+  command = "hugo --buildFuture"
