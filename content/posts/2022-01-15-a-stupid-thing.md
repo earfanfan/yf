@@ -1,7 +1,7 @@
 ---
 title: 脑抽时刻
 author: yuanfan
-date: '2022-01-15'
+date: '2022-01-15 16:00:00'
 slug: a-stupid-thing
 categories:
   - Living
