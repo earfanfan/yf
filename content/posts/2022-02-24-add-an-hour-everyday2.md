@@ -2,7 +2,7 @@
 title: 假如每天多一个小时2
 author: yuanfan
 date: 2022-03-06T22:11:20+0800
-slug: add-an-hour-everyday
+slug: add-an-hour-everyday2
 categories:
   - NOVEL
 tags:
