@@ -1,5 +1,5 @@
 ---
-title: annoying person
+title: 如何不被讨厌的同事影响
 author: yuanfan
 date: 2022-05-09T20:31:10+0800
 slug: annoying-person
