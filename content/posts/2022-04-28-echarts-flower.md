@@ -41,7 +41,7 @@ draft: no
     - `borderColor`，设定的是饼状图扇区的描边颜色，参见第二排左四。
     - `borderWidth`，设定的是饼状图扇区的描边距离，即花瓣之间的间距，参见第一排左二、左三、左四。
 
-```{r}
+{{< highlight r >}}
 library(echarts4r)
 
 df <-
@@ -88,7 +88,7 @@ df |>
   e_labels(show = FALSE) |> # 不显示数据标签
   e_legend(show = FALSE)  # 不显示图例
 
-```
+{{< /highlight >}}
 
 ![](https://yuanfan.vercel.app/images/2022/2022-04-28-1.png)
 
