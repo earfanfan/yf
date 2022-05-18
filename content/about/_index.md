@@ -19,6 +19,8 @@ title: About Me
   
 + 喜欢李杜的诗、苏轼的词、金庸笔下的江湖世界，还喜欢看海贼王、银魂、钢炼，玩银河恶魔城游戏如空洞骑士、奥日，Sky光遇、FEZ、Gorogoa至今让我觉得惊艳。 
   
+&emsp; &emsp; 
+    
 # 我喜欢的博主们 ╭☞( ￣ ▽￣)╭☞ 
     
 &emsp; &emsp;
@@ -36,7 +38,9 @@ title: About Me
 + [CC](https://rexwang.cc/about/)：达娜主人，Glacier Data
   
 + [BYVoid](https://byvoid.com/zht/about/)：旅行者，游记，语言文字  
-  
+
+&emsp; &emsp;
+    
 # 阿木狗主的自白 ❥(^_-)
     
 &emsp; &emsp;    
