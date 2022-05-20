@@ -41,15 +41,14 @@ draft: no
     - `borderColor`，设定的是饼状图扇区的描边颜色，参见第二排左四。
     - `borderWidth`，设定的是饼状图扇区的描边距离，即花瓣之间的间距，参见第一排左二、左三、左四。
 
-{{< highlight r >}}
+```r
 library(echarts4r)
 
 df <-
   data.frame(
     name = rep('A', 8),
     value = c(rep(8, 8)),
-    value2 = c(rep(c(4, 5), 4))
-  )
+    value2 = c(rep(c(4, 5), 4)))
 
 df |>
   e_charts(name) |>
@@ -87,8 +86,7 @@ df |>
     itemStyle = list( borderRadius = c('10%','30%'), borderColor = '#FFC1C1', borderWidth = 10 )) |>
   e_labels(show = FALSE) |> # 不显示数据标签
   e_legend(show = FALSE)  # 不显示图例
-
-{{< /highlight >}}
+```
 
 ![](https://yuanfan.vercel.app/images/2022/2022-04-28-1.png)
 
@@ -168,8 +166,7 @@ df |>
       borderRadius = c('0%','50%'), #花瓣描边的弧度
       borderColor = '#fff', # 花瓣描边颜色
       borderWidth = 2 # 花瓣之间的距离
-    )
-  ) |>
+    )) |>
   e_aria(enabled = TRUE,
          decal = list(
            show = TRUE,
@@ -178,8 +175,7 @@ df |>
              color = '#fff',
              symbolSize = 1,
              rotation = 30
-           )
-         )) |>
+           ) )) |>
   e_labels(show = FALSE) |>
   e_legend(show = FALSE)
 ```
@@ -223,9 +219,7 @@ df2 |>
     itemStyle = list(
       borderRadius = c('0%', '50%'),
       borderColor = '#fff',
-      borderWidth = 2
-    )
-  ) |>
+      borderWidth = 2 ) ) |>
   e_add('itemStyle', color = color1) |> # 引入分配的颜色
   e_labels(show = FALSE) |>
   e_legend(show = FALSE)
@@ -261,9 +255,7 @@ flower1 |>
     itemStyle = list(
       borderRadius = c('0%', '50%'),
       borderColor = '#fff',
-      borderWidth = 5
-    )
-  ) |>
+      borderWidth = 5  ) ) |>
   e_data(flower3, value3) |> # 引入第三层数据
   e_pie(
     value3, # 第三层 花瓣
@@ -273,9 +265,7 @@ flower1 |>
       color = 'white', # 花瓣颜色设置为白色
       borderRadius = 40,
       borderColor = '#fff',
-      borderWidth = 5
-    )
-  ) |>
+      borderWidth = 5 )) |>
   e_labels(show = FALSE) |>
   e_legend(show = FALSE)
 ```
@@ -300,9 +290,7 @@ flower1 |>
     itemStyle = list(
       borderRadius = c('0%', '30%'),
       borderColor = '#fff',
-      borderWidth = 12
-    )
-  ) |>
+      borderWidth = 12  ) ) |>
   e_data(flower2, value2) |> # 引入第二层数据
   e_pie(
     value2,  # 第二层 上层花瓣
@@ -310,9 +298,7 @@ flower1 |>
     radius = c('10%', '80%'),
     color = '#FF3030',
     itemStyle = list(
-      borderRadius = c('0%', '30%')
-    )
-  ) |>
+      borderRadius = c('0%', '30%') )) |>
   e_data(flower3, value3) |> # 引入第三层数据
   e_pie(value3,  # 第三层 花蕊
         radius = '9%', 
@@ -345,8 +331,7 @@ flower1 |>
       borderRadius = c('0%', '30%'),
       borderColor = '#fff',
       borderWidth = 20 # 花瓣间距
-    )
-  ) |>
+ ) ) |>
   e_data(flower2, value2) |>
   e_pie(
     value2, # 第二层
@@ -357,8 +342,7 @@ flower1 |>
       borderRadius = c('0%', '30%'),
       borderColor = '#fff',
       borderWidth = 5 # 花瓣间距
-    )
-  ) |>
+    )) |>
   e_data(flower3, value3) |>
   e_pie(
     value3, # 第三层
@@ -368,8 +352,7 @@ flower1 |>
       borderRadius = c('0%', '30%'),
       borderColor = '#fff',
       borderWidth = 5 # 花瓣间距
-    )
-  ) |>
+    )) |>
   e_data(flower4, value4) |>
   e_pie(
     value4, #第四层
@@ -380,8 +363,7 @@ flower1 |>
       borderRadius = c('0%', '30%'),
       borderColor = '#fff',
       borderWidth = 5 # 花瓣间距
-    )
-  ) |>
+    )) |>
   e_data(flower5, value5) |>
   e_pie(value5, # 第五层
         #这里直接在e_pie里面写color不生效，但是挪到itemStyle()里面去就可以了
@@ -401,8 +383,7 @@ flower1 |>
 data4 <- data.frame(
   name = rep(letters[1:24], 1),
   value1 = rep(4, 24),
-  value2 = rep(4, 24)
-)
+  value2 = rep(4, 24))
 
 data4 |>
   e_charts(name) |>
@@ -439,8 +420,7 @@ data4 |>
 leaf1 <- data.frame(
   name1 = rep('A', 4),
   value1 = c(4, 3, 0.1, 3),
-  color = c('yellow', 'white', 'black', 'white')
-)
+  color = c('yellow', 'white', 'black', 'white'))
 
 leaf2 <- data.frame(name2 = rep('A', 27),
                     value2 = rep(3, 27))
@@ -458,9 +438,7 @@ leaf1 |>
       borderRadius = 40,
       borderColor = '#fff',
       borderWidth = 5,
-      opacity = 1
-    )
-  ) |>
+      opacity = 1 )) |>
   e_labels(show = FALSE) |>
   e_legend(show = FALSE)
 ```
@@ -493,9 +471,7 @@ flower1 |>
              symbol = 'triangle',
              color = '#fff',
              symbolSize = 1,
-             rotation = 90
-           )
-         )) |>
+             rotation = 90 ) )) |>
   e_data(flower2, value2) |>
   e_pie(
     value2,
@@ -506,8 +482,7 @@ flower1 |>
       borderColor = '#fff',
       borderWidth = 1,
       decal = list(symbolSize = 0) #贴花图案尺寸设置为0
-    )
-  ) |>
+    ) ) |>
   e_labels(show = FALSE) |>
   e_legend(show = FALSE)
 ```
@@ -540,8 +515,7 @@ flower1 |>
     value1,
     radius = c('20%', '80%'),
     color = '#FF6A6A',
-    itemStyle = list(borderRadius = c('0%', '30%'))
-  ) |>
+    itemStyle = list(borderRadius = c('0%', '30%'))) |>
   e_data(flower2, value2) |>
   e_pie(
     value2,
@@ -550,9 +524,7 @@ flower1 |>
     itemStyle = list(
       borderRadius = c('0%', '30%'),
       borderColor = '#FF6A6A',
-      borderWidth = 20
-    )
-  ) |>
+      borderWidth = 20 ) ) |>
   e_labels(show = FALSE) |>
   e_legend(show = FALSE)
 ```
@@ -572,9 +544,7 @@ flower1 |>
     itemStyle = list(
       borderRadius = c('0%', '30%'),
       borderColor = '#FF6A6A',
-      borderWidth = 20
-    )
-  ) |>
+      borderWidth = 20 )) |>
   e_data(flower2, value2) |>
   e_pie(
     value2,
@@ -583,9 +553,7 @@ flower1 |>
     itemStyle = list(
       borderRadius = c('0%', '30%'),
       borderColor = 'white',
-      borderWidth = 0
-    )
-  ) |>
+      borderWidth = 0 ) ) |>
   e_labels(show = FALSE) |>
   e_legend(show = FALSE)
 ```
@@ -607,9 +575,7 @@ flower1 |>
     itemStyle = list(
       borderRadius = c('0%', '30%'),
       borderColor = 'white',
-      borderWidth = 0
-    )
-  ) |>
+      borderWidth = 0 )) |>
   e_data(flower2, value2) |>
   e_pie(
     value2,
@@ -618,9 +584,7 @@ flower1 |>
     itemStyle = list(
       borderRadius = c('0%', '30%'),
       borderColor = 'white',
-      borderWidth = 1
-    )
-  ) |>
+      borderWidth = 1)) |>
   e_data(flower3, value3) |>
   e_pie(
     value3,
@@ -629,9 +593,7 @@ flower1 |>
     itemStyle = list(
       borderRadius = c('30%', '30%'),
       borderColor = 'white',
-      borderWidth = 1
-    )
-  ) |>
+      borderWidth = 1 )) |>
   e_data(flower4, value4) |>
   e_pie(value4,
         radius = c('85%%', '90%'), color = '#FF6A6A') |>
@@ -656,9 +618,7 @@ flower1 |>
     itemStyle = list(
       borderRadius = c('0%', '30%'),
       borderColor = 'white',
-      borderWidth = 1
-    )
-  ) |>
+      borderWidth = 1 ) ) |>
   e_data(flower2, value2) |>
   e_pie(
     value2,
@@ -667,9 +627,7 @@ flower1 |>
     itemStyle = list(
       borderRadius = c('0%', '40%'),
       borderColor = 'white',
-      borderWidth = 1
-    )
-  ) |>
+      borderWidth = 1 )) |>
   e_data(flower3, value3) |>
   e_pie(value3, radius = '8%') |>
   e_labels(show = FALSE) |>
