@@ -130,7 +130,7 @@ h1 {
 }
 
 h2 {
-    font: italic 19px/1.3em Georgia, serif;
+    font: italic 24px/1.3em Georgia, serif;
     color: #bbb;
 }
 
@@ -194,7 +194,7 @@ nav.main-nav a.cta {
     color: #fff;
     margin-left: 12px;
 }
-@media (max-width: 700px) {
+@media (max-width: 720px) {
   nav.main-nav {
       padding: 20px 10px 0 0;
       background: #fff;
@@ -220,13 +220,13 @@ nav.main-nav a.cta {
 }
 
 #wrapper {
-    max-width: 720px;
+    max-width: 760px;
     margin: 0 auto;
     padding: 60px 20px 100px 20px;
 }
 
 #wrapper.home {
-    max-width: 720px;
+    max-width: 760px;
     margin: 0 auto;
     padding: 0px 40px 20px 40px;
 }
@@ -461,8 +461,8 @@ thead th, th {
 }
 
 img {
-    width: 80%;
-    max-width: 80%;
+    width: 100%;
+    max-width: 100%;
     border-radius: 3px;
 }
 
@@ -548,7 +548,7 @@ Post List
 #header {
 }
 #wrapper.post {
-    max-width: 720px;
+    max-width: 760px;
 }
 .post {
     margin: auto;
@@ -944,6 +944,7 @@ pre {
   border: 1px solid #ddd;
   box-shadow: 5px 5px 5px #eee;
   overflow-x: auto;
+  overflow-y: auto;
 }
 code {
   font-family: 'PT Mono', monospace;
