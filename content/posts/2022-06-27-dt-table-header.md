@@ -20,16 +20,16 @@ draft: no
 
 |标签|英文全称|描述|
 |:---------:|:-------------:|:---------------:|
-|<table>||定义表格|
-|<th>|table header cell|定义表格的表头|
-|<tr>|table row|定义表格的行|
-|<td>|table data cell|定义表格单元|
-|<caption>||定义表格标题|
-|<colgroup>|column group|定义表格列的组|
-|<col>|column|定义用于表格列的属性|
-|<thead>|table head|定义表格的页眉|
-|<tbody>|table body|定义表格的主体|
-|<tfoot>|table foot|定义表格的页脚|
+|`<table>`||定义表格|
+|`<th>`|table header cell|定义表格的表头|
+|`<tr>`|table row|定义表格的行|
+|`<td>`|table data cell|定义表格单元|
+|`<caption>`||定义表格标题|
+|`<colgroup>`|column group|定义表格列的组|
+|`<col>`|column|定义用于表格列的属性|
+|`<thead>`|table head|定义表格的页眉|
+|`<tbody>`|table body|定义表格的主体|
+|`<tfoot>`|table foot|定义表格的页脚|
 
 照旧，为了今后方便复现，先编造一份数据。
 
