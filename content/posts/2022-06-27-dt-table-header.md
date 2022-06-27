@@ -114,7 +114,7 @@ DT::datatable(
 
 在定义每层表头的样式时，可以分别用如`firstHead`、`secondHead`、`thirdHead`这三个不同的名称来对不同的样式进行命名，随后形如`tr(class='firstHead',th(),th())`来逐行对表头内容进行设定。
 
-+ 第一步，引入 CSS。
++ 第一步，定义 CSS 样式。
 
 ````
 ```{css}
@@ -238,7 +238,7 @@ DT 包也可以给单独的每一列引入 CSS 样式，形如`options=list(colu
   border-left: 0.5px dashed #555;
 }
 ```
-```
+````
 
 + 第二步，引入 css 样式并绘制表格。
 
