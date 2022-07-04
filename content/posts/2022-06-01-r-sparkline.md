@@ -321,7 +321,7 @@ DT::datatable(table2.tidy, escape = FALSE) %>% spk_add_deps()
 
 + data.table 版本
 
-下面的写法来源于统计之都论坛上的[一个帖子](<https://d.cosx.org/d/423198-tidy-datatable>)。不熟 data.table 包的时候，可以使用`dtplur::lazy_dt()`把tidy版本转换成data.table版本，然后用`dtplyr:::dt_call()`提取出具体的代码。
+下面的写法来源于统计之都论坛上的[一个帖子](<https://d.cosx.org/d/423198-tidy-datatable>)。不熟 data.table 包的时候，可以使用`dtplyr::lazy_dt()`把tidy版本转换成data.table版本，然后用`dtplyr:::dt_call()`提取出具体的代码。
 
 ```{r}
 table2.dt.DT <- table2.dt[, .(
