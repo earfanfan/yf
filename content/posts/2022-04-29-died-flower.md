@@ -1,7 +1,7 @@
 ---
 title: 低头的花
 author: yuanfan
-date: 2022-05-03T16:23:05+0800
+date: 2055-05-03T16:23:05+0800
 slug: died-flower
 categories:
   - NOVEL
@@ -10,7 +10,7 @@ tags:
 draft: true
 ---
 
-<font face="微软雅黑">
+<font face="微软雅黑">2022年写的，由于不知道如何隐藏，将日期改为2055年。
 
 <!--more-->
 
