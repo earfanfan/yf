@@ -38,6 +38,8 @@ title: About Me
 + [CC](https://rexwang.cc/about/)：达娜主人，Glacier Data
   
 + [BYVoid](https://byvoid.com/zht/about/)：旅行者，游记，语言文字  
+    
++ [郝洪涛](https://hongtaoh.com/cn/blog/)：比较高产， 好读书 
 
 &emsp; &emsp;
     
