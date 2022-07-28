@@ -7,7 +7,7 @@ categories:
   - NOVEL
 tags:
   - 小说
-draft: yes
+draft: true
 ---
 
 <font face="微软雅黑">
