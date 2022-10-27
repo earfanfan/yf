@@ -69,8 +69,8 @@ paginate = 10
 	share = ""
 
 	# 404 page
-	title404 = "阿木狗主云游天外了"
-	subtitle404 = "天灵灵，地灵灵，时灵时不灵"
+	title404 = "阿木狗主云游天外了<https://yuanfan.rbind.io/>"
+	subtitle404 = "天灵灵，地灵灵，时灵时不灵<https://yuanfan.rbind.io/>"
 
 	# Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
 	iconFont = "font-awesome"
