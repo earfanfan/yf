@@ -1,0 +1,513 @@
+{
+  "trailingSlash": true,
+  "redirects": [
+    {
+      "source": "/about/",
+      "destination": "https://yuanfan.rbind.io/about/"
+    },
+    {
+      "source": "/posts/moon/",
+      "destination": "https://yuanfan.rbind.io/story/moon/"
+    },
+    {
+      "source": "/posts/dog-dog-story/",
+      "destination": "https://yuanfan.rbind.io/posts/dog-dog-story/"
+    },
+    {
+      "source": "/posts/dt-wwc/",
+      "destination": "https://yuanfan.rbind.io/project/dt-wwc/"
+    },
+    {
+      "source": "/posts/dt-fill-color/",
+      "destination": "https://yuanfan.rbind.io/project/dt-fill-color/"
+    },
+    {
+      "source": "/posts/annoying-person2/",
+      "destination": "https://yuanfan.rbind.io/posts/annoying-person2/"
+    },
+    {
+      "source": "/posts/fortunetelling/",
+      "destination": "https://yuanfan.rbind.io/posts/fortunetelling/"
+    },
+    {
+      "source": "/posts/curse-ways/",
+      "destination": "https://yuanfan.rbind.io/posts/curse-ways/"
+    },
+    {
+      "source": "/posts/official-speaking/",
+      "destination": "https://yuanfan.rbind.io/posts/official-speaking/"
+    },
+    {
+      "source": "/posts/in-the-dream/",
+      "destination": "https://yuanfan.rbind.io/story/in-the-dream/"
+    },
+    {
+      "source": "/posts/dt-table-header/",
+      "destination": "https://yuanfan.rbind.io/project/dt-table-header/"
+    },
+    {
+      "source": "/posts/ioslides/",
+      "destination": "https://yuanfan.rbind.io/project/ioslides/"
+    },
+    {
+      "source": "/posts/r-crosstalk/",
+      "destination": "https://yuanfan.rbind.io/project/r-crosstalk/"
+    },
+    {
+      "source": "/posts/r-sparkline/",
+      "destination": "https://yuanfan.rbind.io/project/r-sparkline/"
+    },
+    {
+      "source": "/posts/dog-s-wish/",
+      "destination": "https://yuanfan.rbind.io/posts/dog-s-wish/"
+    },
+    {
+      "source": "/posts/little-little-things/",
+      "destination": "https://yuanfan.rbind.io/posts/little-little-things/"
+    },
+    {
+      "source": "/posts/qianbo/",
+      "destination": "https://yuanfan.rbind.io/posts/qianbo/"
+    },
+    {
+      "source": "/posts/echarts4r_facet/",
+      "destination": "https://yuanfan.rbind.io/project/echarts4r_facet/"
+    },
+    {
+      "source": "/posts/little-things-little-happiness/",
+      "destination": "https://yuanfan.rbind.io/posts/little-things-little-happiness/"
+    },
+    {
+      "source": "/posts/hushi/",
+      "destination": "https://yuanfan.rbind.io/posts/hushi/"
+    },
+    {
+      "source": "/posts/annoying-person/",
+      "destination": "https://yuanfan.rbind.io/posts/annoying-person/"
+    },
+    {
+      "source": "/posts/talk-about-rational-consumption/",
+      "destination": "https://yuanfan.rbind.io/posts/talk-about-rational-consumption/"
+    },
+    {
+      "source": "/posts/dog-s-love/",
+      "destination": "https://yuanfan.rbind.io/posts/dog-s-love/"
+    },
+    {
+      "source": "/posts/echarts-flower/",
+      "destination": "https://yuanfan.rbind.io/project/echarts-flower/"
+    },
+    {
+      "source": "/posts/add-an-hour-everyday3/",
+      "destination": "https://yuanfan.rbind.io/story/add-an-hour-everyday3/"
+    },
+    {
+      "source": "/posts/moon-move/",
+      "destination": "https://yuanfan.rbind.io/posts/moon-move/"
+    },
+    {
+      "source": "/posts/flower-door/",
+      "destination": "https://yuanfan.rbind.io/posts/flower-door/"
+    },
+    {
+      "source": "/posts/install-r/",
+      "destination": "https://yuanfan.rbind.io/project/install-r/"
+    },
+    {
+      "source": "/posts/oracle-lead/",
+      "destination": "https://yuanfan.rbind.io/project/oracle-lead/"
+    },
+    {
+      "source": "/posts/pick-up-the-ball/",
+      "destination": "https://yuanfan.rbind.io/posts/pick-up-the-ball/"
+    },
+    {
+      "source": "/posts/evil-dispear/",
+      "destination": "https://yuanfan.rbind.io/posts/evil-dispear/"
+    },
+    {
+      "source": "/posts/am-i-waste-the-food/",
+      "destination": "https://yuanfan.rbind.io/posts/am-i-waste-the-food/"
+    },
+    {
+      "source": "/posts/kill-fish-and-eat-it/",
+      "destination": "https://yuanfan.rbind.io/posts/kill-fish-and-eat-it/"
+    },
+    {
+      "source": "/posts/rjdbc-impala/",
+      "destination": "https://yuanfan.rbind.io/project/rjdbc-impala/"
+    },
+    {
+      "source": "/posts/wander-the-night/",
+      "destination": "https://yuanfan.rbind.io/posts/wander-the-night/"
+    },
+    {
+      "source": "/posts/xunger2/",
+      "destination": "https://yuanfan.rbind.io/posts/xunger2/"
+    },
+    {
+      "source": "/posts/add-an-hour-everyday2/",
+      "destination": "https://yuanfan.rbind.io/story/add-an-hour-everyday2/"
+    },
+    {
+      "source": "/posts/live-in-the-village2/",
+      "destination": "https://yuanfan.rbind.io/posts/live-in-the-village2/"
+    },
+    {
+      "source": "/posts/something-i-do-not-know/",
+      "destination": "https://yuanfan.rbind.io/posts/something-i-do-not-know/"
+    },
+    {
+      "source": "/posts/add-an-hour-everyday/",
+      "destination": "https://yuanfan.rbind.io/story/add-an-hour-everyday/"
+    },
+    {
+      "source": "/posts/dog-fly-away/",
+      "destination": "https://yuanfan.rbind.io/posts/dog-fly-away/"
+    },
+    {
+      "source": "/posts/png/",
+      "destination": "https://yuanfan.rbind.io/project/png/"
+    },
+    {
+      "source": "/posts/openxlsx/",
+      "destination": "https://yuanfan.rbind.io/project/openxlsx/"
+    },
+    {
+      "source": "/posts/dog-and-friend/",
+      "destination": "https://yuanfan.rbind.io/posts/dog-and-friend/"
+    },
+    {
+      "source": "/posts/a-stupid-thing/",
+      "destination": "https://yuanfan.rbind.io/posts/a-stupid-thing/"
+    },
+    {
+      "source": "/posts/give-a-dog-a-bad-name-and-hang-him/",
+      "destination": "https://yuanfan.rbind.io/posts/give-a-dog-a-bad-name-and-hang-him/"
+    },
+    {
+      "source": "/posts/music-quotient/",
+      "destination": "https://yuanfan.rbind.io/posts/music-quotient/"
+    },
+    {
+      "source": "/posts/onomatopoeia/",
+      "destination": "https://yuanfan.rbind.io/posts/onomatopoeia/"
+    },
+    {
+      "source": "/posts/unequal/",
+      "destination": "https://yuanfan.rbind.io/posts/unequal/"
+    },
+    {
+      "source": "/posts/eat-quotient/",
+      "destination": "https://yuanfan.rbind.io/posts/eat-quotient/"
+    },
+    {
+      "source": "/posts/food-on-festival/",
+      "destination": "https://yuanfan.rbind.io/posts/food-on-festival/"
+    },
+    {
+      "source": "/posts/note2-on-using-rstudio-server/",
+      "destination": "https://yuanfan.rbind.io/project/note2-on-using-rstudio-server/"
+    },
+    {
+      "source": "/posts/note1-on-using-rstudio-server/",
+      "destination": "https://yuanfan.rbind.io/project/note1-on-using-rstudio-server/"
+    },
+    {
+      "source": "/posts/somthing-rare-and-precious/",
+      "destination": "https://yuanfan.rbind.io/posts/somthing-rare-and-precious/"
+    },
+    {
+      "source": "/posts/some-things-about-sport/",
+      "destination": "https://yuanfan.rbind.io/posts/some-things-about-sport/"
+    },
+    {
+      "source": "/posts/xxsay/",
+      "destination": "https://yuanfan.rbind.io/posts/xxsay/"
+    },
+    {
+      "source": "/posts/e-scatter/",
+      "destination": "https://yuanfan.rbind.io/project/e-scatter/"
+    },
+    {
+      "source": "/posts/model1/",
+      "destination": "https://yuanfan.rbind.io/project/model1/"
+    },
+    {
+      "source": "/posts/follow-my-heart/",
+      "destination": "https://yuanfan.rbind.io/posts/follow-my-heart/"
+    },
+    {
+      "source": "/posts/some-thought-about-sport/",
+      "destination": "https://yuanfan.rbind.io/posts/some-thought-about-sport/"
+    },
+    {
+      "source": "/posts/zhongcai/",
+      "destination": "https://yuanfan.rbind.io/posts/zhongcai/"
+    },
+    {
+      "source": "/posts/not-less-than/",
+      "destination": "https://yuanfan.rbind.io/project/not-less-than/"
+    },
+    {
+      "source": "/posts/sea-of-people/",
+      "destination": "https://yuanfan.rbind.io/posts/sea-of-people/"
+    },
+    {
+      "source": "/posts/live-in-my-village/",
+      "destination": "https://yuanfan.rbind.io/posts/live-in-my-village/"
+    },
+    {
+      "source": "/posts/how-should-i-live/",
+      "destination": "https://yuanfan.rbind.io/posts/how-should-i-live/"
+    },
+    {
+      "source": "/posts/turn-blue/",
+      "destination": "https://yuanfan.rbind.io/posts/turn-blue/"
+    },
+    {
+      "source": "/posts/e-line/",
+      "destination": "https://yuanfan.rbind.io/project/e-line/"
+    },
+    {
+      "source": "/posts/e-pie/",
+      "destination": "https://yuanfan.rbind.io/project/e-pie/"
+    },
+    {
+      "source": "/posts/yiwei/",
+      "destination": "https://yuanfan.rbind.io/posts/yiwei/"
+    },
+    {
+      "source": "/posts/let-it-go/",
+      "destination": "https://yuanfan.rbind.io/story/let-it-go/"
+    },
+    {
+      "source": "/posts/anxiety-of-the-times-and-individual-differences/",
+      "destination": "https://yuanfan.rbind.io/posts/anxiety-of-the-times-and-individual-differences/"
+    },
+    {
+      "source": "/posts/when-children-meet-physics/",
+      "destination": "https://yuanfan.rbind.io/posts/when-children-meet-physics/"
+    },
+    {
+      "source": "/posts/a-dog-named-siling/",
+      "destination": "https://yuanfan.rbind.io/posts/a-dog-named-siling/"
+    },
+    {
+      "source": "/posts/echarts4r-e-bar/",
+      "destination": "https://yuanfan.rbind.io/project/echarts4r-e-bar/"
+    },
+    {
+      "source": "/posts/install-rstudio-server-in-linux/",
+      "destination": "https://yuanfan.rbind.io/project/install-rstudio-server-in-linux/"
+    },
+    {
+      "source": "/posts/mountain-and-sea/",
+      "destination": "https://yuanfan.rbind.io/story/mountain-and-sea/"
+    },
+    {
+      "source": "/posts/the-points-of-smile/",
+      "destination": "https://yuanfan.rbind.io/posts/the-points-of-smile/"
+    },
+    {
+      "source": "/posts/prune/",
+      "destination": "https://yuanfan.rbind.io/posts/prune/"
+    },
+    {
+      "source": "/posts/dog-s-dancing/",
+      "destination": "https://yuanfan.rbind.io/posts/dog-s-dancing/"
+    },
+    {
+      "source": "/posts/looking-forward/",
+      "destination": "https://yuanfan.rbind.io/posts/looking-forward/"
+    },
+    {
+      "source": "/posts/corner/",
+      "destination": "https://yuanfan.rbind.io/posts/corner/"
+    },
+    {
+      "source": "/posts/something-changed-in-wuhan/",
+      "destination": "https://yuanfan.rbind.io/posts/something-changed-in-wuhan/"
+    },
+    {
+      "source": "/posts/youyou-s-story/",
+      "destination": "https://yuanfan.rbind.io/story/youyou-s-story/"
+    },
+    {
+      "source": "/posts/eat-promise-will-be-fat/",
+      "destination": "https://yuanfan.rbind.io/story/eat-promise-will-be-fat/"
+    },
+    {
+      "source": "/posts/tree/",
+      "destination": "https://yuanfan.rbind.io/posts/tree/"
+    },
+    {
+      "source": "/posts/some-thought-on-boundary/",
+      "destination": "https://yuanfan.rbind.io/posts/some-thought-on-boundary/"
+    },
+    {
+      "source": "/posts/xun-ge-er/",
+      "destination": "https://yuanfan.rbind.io/posts/xun-ge-er/"
+    },
+    {
+      "source": "/posts/ieoh-ming-pei/",
+      "destination": "https://yuanfan.rbind.io/posts/ieoh-ming-pei/"
+    },
+    {
+      "source": "/posts/laofu-is-thirty-now/",
+      "destination": "https://yuanfan.rbind.io/posts/laofu-is-thirty-now/"
+    },
+    {
+      "source": "/posts/across/",
+      "destination": "https://yuanfan.rbind.io/posts/across/"
+    },
+    {
+      "source": "/posts/bad-habits/",
+      "destination": "https://yuanfan.rbind.io/posts/bad-habits/"
+    },
+    {
+      "source": "/posts/some-thought-on-history/",
+      "destination": "https://yuanfan.rbind.io/posts/some-thought-on-history/"
+    },
+    {
+      "source": "/posts/a-little-baby-2/",
+      "destination": "https://yuanfan.rbind.io/posts/a-little-baby-2/"
+    },
+    {
+      "source": "/posts/money-and-small-bench/",
+      "destination": "https://yuanfan.rbind.io/posts/money-and-small-bench/"
+    },
+    {
+      "source": "/posts/cool-perceived-ability/",
+      "destination": "https://yuanfan.rbind.io/posts/cool-perceived-ability/"
+    },
+    {
+      "source": "/posts/one-day-trip/",
+      "destination": "https://yuanfan.rbind.io/posts/one-day-trip/"
+    },
+    {
+      "source": "/posts/cruel-answer/",
+      "destination": "https://yuanfan.rbind.io/posts/cruel-answer/"
+    },
+    {
+      "source": "/posts/reading-zhuangzi-s-diary/",
+      "destination": "https://yuanfan.rbind.io/posts/reading-zhuangzi-s-diary/"
+    },
+    {
+      "source": "/posts/qq-carry/",
+      "destination": "https://yuanfan.rbind.io/posts/qq-carry/"
+    },
+    {
+      "source": "/posts/a-fraud-call/",
+      "destination": "https://yuanfan.rbind.io/posts/a-fraud-call/"
+    },
+    {
+      "source": "/posts/kill/",
+      "destination": "https://yuanfan.rbind.io/posts/kill/"
+    },
+    {
+      "source": "/posts/huihui-ending/",
+      "destination": "https://yuanfan.rbind.io/story/huihui-ending/"
+    },
+    {
+      "source": "/posts/huihui-traveling/",
+      "destination": "https://yuanfan.rbind.io/story/huihui-traveling/"
+    },
+    {
+      "source": "/posts/huihui-starting/",
+      "destination": "https://yuanfan.rbind.io/story/huihui-starting/"
+    },
+    {
+      "source": "/posts/a-little-baby/",
+      "destination": "https://yuanfan.rbind.io/posts/a-little-baby/"
+    },
+    {
+      "source": "/posts/other-people-emotion/",
+      "destination": "https://yuanfan.rbind.io/posts/other-people-emotion/"
+    },
+    {
+      "source": "/posts/dad-s-cooking/",
+      "destination": "https://yuanfan.rbind.io/posts/dad-s-cooking/"
+    },
+    {
+      "source": "/posts/beast-inside/",
+      "destination": "https://yuanfan.rbind.io/posts/beast-inside/"
+    },
+    {
+      "source": "/posts/galaxy-legend/",
+      "destination": "https://yuanfan.rbind.io/story/galaxy-legend/"
+    },
+    {
+      "source": "/posts/sense-of-faith/",
+      "destination": "https://yuanfan.rbind.io/posts/sense-of-faith/"
+    },
+    {
+      "source": "/posts/like-a-dog/",
+      "destination": "https://yuanfan.rbind.io/posts/like-a-dog/"
+    },
+    {
+      "source": "/posts/mao-mao/",
+      "destination": "https://yuanfan.rbind.io/posts/mao-mao/"
+    },
+    {
+      "source": "/posts/gender-inequality/",
+      "destination": "https://yuanfan.rbind.io/posts/gender-inequality/"
+    },
+    {
+      "source": "/posts/grandmother/",
+      "destination": "https://yuanfan.rbind.io/posts/grandmother/"
+    },
+    {
+      "source": "/posts/home/",
+      "destination": "https://yuanfan.rbind.io/posts/home/"
+    },
+    {
+      "source": "/posts/generation-gap/",
+      "destination": "https://yuanfan.rbind.io/posts/generation-gap/"
+    },
+    {
+      "source": "/posts/why-doubt-myself/",
+      "destination": "https://yuanfan.rbind.io/posts/why-doubt-myself/"
+    },
+    {
+      "source": "/posts/save-yourself/",
+      "destination": "https://yuanfan.rbind.io/posts/save-yourself/"
+    },
+    {
+      "source": "/posts/elevator-advertising/",
+      "destination": "https://yuanfan.rbind.io/posts/elevator-advertising/"
+    },
+    {
+      "source": "/posts/my-dog/",
+      "destination": "https://yuanfan.rbind.io/posts/my-dog/"
+    },
+    {
+      "source": "/posts/step-by-step/",
+      "destination": "https://yuanfan.rbind.io/posts/step-by-step/"
+    },
+    {
+      "source": "/posts/a-new-life/",
+      "destination": "https://yuanfan.rbind.io/posts/a-new-life/"
+    },
+    {
+      "source": "/posts/liang-zhu/",
+      "destination": "https://yuanfan.rbind.io/story/liang-zhu/"
+    },
+    {
+      "source": "/posts/schizophrenic-me/",
+      "destination": "https://yuanfan.rbind.io/posts/schizophrenic-me/"
+    },
+    {
+      "source": "/posts/if-meet-old-yourself/",
+      "destination": "https://yuanfan.rbind.io/story/if-meet-old-yourself/"
+    },
+    {
+      "source": "/posts/hun-dun/",
+      "destination": "https://yuanfan.rbind.io/story/hun-dun/"
+    },
+    {
+      "source": "/(.*\\.xml)",
+      "destination": "https://yuanfan.rbind.io/$1"
+    }
+  ]
+}
